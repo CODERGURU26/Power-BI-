@@ -225,7 +225,7 @@ Mastering the most commonly used and effective visualizations. This module inclu
 
 2. **Clone or Download This Repository**:
    ```bash
-   git clone https://github.com/yourusername/power-bi-tutorial.git
+   git clone https://github.com/yourusername/Power-BI-.git
    ```
    Or download the ZIP file and extract it.
 
