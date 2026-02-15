@@ -464,9 +464,6 @@ If you find issues or have suggestions for improvements:
 - Submit a pull request with enhancements
 - Share your own examples and use cases
 
-## 📄 License
-
-This tutorial is provided for educational purposes. Power BI is a product of Microsoft Corporation.
 
 ## ⚠️ Important Notes
 
